@@ -12,6 +12,9 @@
 
 - We have 45+ stars and my account got flagged
 
+- This is only made for educational purpose, please do not use it seriously
+
+- I forked this because I want to, asjad is my friend so i have no worry of forking it, make sure to check the original project!
 
 ### More Stars?
 - As we will reach 25 stars, we will add (self bot(discord), GeoIP)
@@ -20,7 +23,7 @@
 
 
 ### Getting Started
--  git clone https://github.com/AsjadOwO/Zero-attacker.git
+-  git clone https://github.com/Elijah2101021/Zero-attacker.git
 - cd Zero-Attacker
 - python -m pip install -r requirements.txt
 - for(Windows user just run the bat file (start.bat) )
@@ -37,15 +40,6 @@
 ### Developer 
 - Asjad#0060, Dev7knight#3544 is the Developer of this Zero Attacker
 - Contact for any kind of help 
-
-
-[Asjad Personal Site](https://www.asjadowo.xyz/)
-
-[Knight Personal Site BETA](https://dev7knight.github.io/)
-
-[Asjad Discord Server](https://discord.gg/HdukakhZ4Z)
-
-[Knight Discord Server](https://discord.gg/MVmDYSVdzF)
 
 
 - Zero Tool
